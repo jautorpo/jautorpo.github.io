@@ -1,0 +1,56 @@
+body {
+
+  background: rgb(220,220,220);
+}
+
+.element.uno {
+  background: rgb(127,255,212);
+  padding: 10px 15px;
+}
+
+.element.dos {
+  background: rgb(127,255,212);
+  padding: 10px 15px;
+}
+
+.element.tres {
+  background: rgb(127,255,212);
+  padding: 10px 15px;
+}
+	
+.element.cuatro {
+  background: rgb(127,255,212);
+  padding: 10px 15px;
+}
+
+}.gallery {
+  margin: 10px;
+}
+
+img {
+
+  width: 100%;
+}
+
+.like {
+
+  background: green;
+}
+
+.dislike {
+
+  float: right;
+  background: red;
+}
+
+.likewindows {
+
+  background: rgb(100,200,255);
+  padding-left: 100;
+}
+
+.dislikewindow {
+
+  background: rgb(100,200,255);
+  padding-left: 100;
+}
